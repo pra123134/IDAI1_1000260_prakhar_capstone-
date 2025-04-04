@@ -77,4 +77,4 @@ This project is licensed under the MIT License. See [LICENSE](LICENSE) for detai
 Pull requests are welcome! If you'd like to contribute, please fork the repository and submit a PR with detailed changes.
 
 ## **Contact**
-For any inquiries or collaborations, reach out via [Your Email] or GitHub Issues.
+For any inquiries or collaborations, reach out via [prakhar.sharmaibcp@gmail.com] or GitHub Issues.
